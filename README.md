@@ -1,3 +1,1 @@
 # aws-examples
-
-test1
